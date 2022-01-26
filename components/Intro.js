@@ -40,7 +40,7 @@ function Intro() {
 
                 <nav className="flex items-center justify-between flex-wrap bg-black fixed top-0 z-10 w-full p-6">
                     <div className="flex items-center flex-shrink-0 text-white mr-10 hover:text-gray-400 cursor-pointer">
-                    <a href="#intro"><span class="font-semibold text-2xl tracking-tight">Aleksandra Skrzypek</span></a>
+                    <a href="#intro"><span className="font-semibold text-2xl tracking-tight">Aleksandra Skrzypek</span></a>
                     </div>
 
                     <div className="block md:hidden">
