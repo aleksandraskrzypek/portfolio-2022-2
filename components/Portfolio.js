@@ -41,7 +41,7 @@ function Portfolio() {
             </div>
 
 
-            <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-10 mx-20 pb-10 ">
+            <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 sm:gap-10 gap-32 mx-20 pb-10 ">
 
                 <div className="relative group transition ease-in-out hover:-translate-y-1 hover:scale-110">
                     <Image 
